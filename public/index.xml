@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 May 2024 19:01:29 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Mon, 27 May 2024 19:01:29 +0530</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Mon, 27 May 2024 19:01:29 +0530</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>Introduction This is the second post. This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
